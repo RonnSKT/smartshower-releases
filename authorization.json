@@ -1,7 +1,8 @@
 {
-  "v": 1,
-  "updated": "2026-06-17T16:35:25.063Z",
   "machines": [
-    "EAD7AD277BAD2EEF"
-  ]
+    "EAD7AD277BAD2EEF",
+    "EFCB392CC154AEF5"
+  ],
+  "updated": "2026-06-17T19:32:50Z",
+  "v": 1
 }

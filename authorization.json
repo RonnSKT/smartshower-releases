@@ -1,10 +1,9 @@
 {
-  "v": 1,
-  "updated": "2026-06-18T17:34:59.609Z",
   "machines": [
-    "20E08944C55237E8",
     "EAD7AD277BAD2EEF",
     "EFCB392CC154AEF5",
     "F094F50EFF9DCD0E"
-  ]
+  ],
+  "updated": "2026-06-18T17:39:38Z",
+  "v": 1
 }
